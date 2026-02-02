@@ -3,7 +3,7 @@
 Здесь — код, эксперименты и немного музыки.
 -->
 
-<h1 align="center">Привет! Меня зовут 👋</h1>
+<h1 align="center">information about Ivannikov22</h1>
 
 <p align="center">
   <a href="https://github.com/ВАШ_НИКНЕЙМ">
