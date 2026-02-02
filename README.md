@@ -36,8 +36,8 @@
 ### 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=radical&border_radius=10&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvannikov22&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvannikov22&layout=compact&theme=radical&border_radius=10&langs_count=6" width="48%" />
 </div>
 
 > Тема **radical** — за яркость, контраст и современный вид.
