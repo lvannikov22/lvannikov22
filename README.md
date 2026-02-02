@@ -32,7 +32,6 @@
 ![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat-square)
 
 ---
-
 ### 📊 Статистика
 
 <div align="center">
