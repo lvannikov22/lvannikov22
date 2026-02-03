@@ -36,6 +36,9 @@
 Просто вбейте Ivannikov22 куда угодно и вы найдете меня
 
 ---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Ivannikov22&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
 <p align="center">
   <i>«Тут должна быть умная мысль.»</i>
